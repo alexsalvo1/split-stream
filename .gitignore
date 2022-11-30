@@ -3,3 +3,4 @@ configuration/*.properties
 .DS_Store
 bin
 build
+gradle
