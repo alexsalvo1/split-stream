@@ -1,0 +1,3 @@
+configuration/*.properties
+.gradle
+.DS_Store
